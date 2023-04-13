@@ -1,0 +1,20 @@
+#Thank you for your download our plugin
+#This plugin made by HeavenMine Team
+#Discord: https://discord.gg/heavenmine
+#If you have any questions please go to discord and create tickets :D
+
+version: 1.0.0
+
+prefix: "&6[HMEasyMod] "
+
+license:
+  key: "LICENSE_KEY"
+  use-hm-license: false
+
+storage:
+  type: sqlite #sqlite or mysql
+  host: localhost
+  port: 3306
+  username: root
+  password:
+  dbname: database

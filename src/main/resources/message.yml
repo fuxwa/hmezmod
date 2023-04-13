@@ -1,0 +1,39 @@
+whitelist-message:
+  - "&6[HMEasyMod] \n"
+  - "&aServer đang bảo trì\n"
+  - "&aThời gian xong dự kiến: &e{time}\n"
+  - "&aVui lòng truy cập lại sau"
+
+warning-message:
+  - "&6[HMEasyMod] \n"
+  - "&aBạn đã bị nhắc nhở bởi &e{kicker}\n"
+  - "&aLý do: &e{reason}\n"
+  - "&aThời gian: &e{date}"
+  - "&aVui lòng tuân thủ quy định để không bị dính thêm số lần cảnh cáo !"
+  - "&aViệc vi phạm quy định có thể dẫn đến cấm truy cập vào server"
+
+kick-message:
+  - "&6[HMEasyMod] \n"
+  - "&aBạn đã bị kick bởi &e{kicker}\n"
+  - "&aLý do: &e{reason}\n"
+  - "&aThời gian: &e{date}"
+  - "&aNếu bạn cho rằng điều này là do nhầm lẫn"
+  - "&aVui lòng truy cập discord.gg/heavenmine để được hỗ trợ"
+
+temp-ban-message:
+  - "&6[HMEasyMod] \n"
+  - "&aBạn đã bị ban bởi &e{kicker}\n"
+  - "&aLý do: &e{reason}\n"
+  - "&aThời gian: &e{date}"
+  - "&aHiệu lực: &e{timeleft}"
+  - "&aNếu bạn cho rằng điều này là do nhầm lẫn"
+  - "&aVui lòng truy cập discord.gg/heavenmine để được hỗ trợ"
+
+ban-message:
+  - "&6[HMEasyMod] \n"
+  - "&aBạn đã bị ban bởi &e{kicker}\n"
+  - "&aLý do: &e{reason}\n"
+  - "&aThời gian: &e{date}"
+  - "&aHiệu lực: &eVĩnh Viễn"
+  - "&aNếu bạn cho rằng điều này là do nhầm lẫn"
+  - "&aVui lòng truy cập discord.gg/heavenmine để được hỗ trợ"

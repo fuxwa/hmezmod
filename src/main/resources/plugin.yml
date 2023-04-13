@@ -1,0 +1,17 @@
+name: HMEasyMod
+version: '${project.version}'
+main: net.heavenmine.hmeasymod.Main
+commands:
+  ban:
+  unban:
+  mute:
+  unmute:
+  kick:
+  warning:
+  history:
+  clearhistory:
+    aliases:
+      - clhistory
+  vanish:
+    aliases:
+      - v
